@@ -1109,7 +1109,7 @@
         },
         "children": [
           {
-            "name": "nextclade__copy_of_PP058739|13796_L|Argentina|1990|Argentina/1990-XX-XX_for_placement_of_PP_006W1X5.1|L_#61",
+            "name": "nextclade__copy_of_PP058739|13796_L|Argentina|1990|Argentina/1990-XX-XX_for_placement_of_PP_006W1X5.1_#61",
             "branch_attrs": {
               "mutations": {
                 "RdRp": [
@@ -2007,7 +2007,7 @@
                 }
               },
               {
-                "name": "PP_006W1X5.1|L",
+                "name": "PP_006W1X5.1",
                 "branch_attrs": {
                   "mutations": {
                     "nuc": []
@@ -2238,7 +2238,7 @@
             },
             "children": [
               {
-                "name": "nextclade__copy_of_nextclade__copy_of_NODE_0000003_for_placement_of_PP_006VX06.1|L_#6_for_placement_of_PP_006W2E5.1|L_#72",
+                "name": "nextclade__copy_of_nextclade__copy_of_NODE_0000003_for_placement_of_PP_006VX06.1_#6_for_placement_of_PP_006W2E5.1_#72",
                 "branch_attrs": {
                   "mutations": {
                     "RdRp": [
@@ -2313,7 +2313,7 @@
                 },
                 "children": [
                   {
-                    "name": "PP_006W2E5.1|L",
+                    "name": "PP_006W2E5.1",
                     "branch_attrs": {
                       "mutations": {
                         "RdRp": [
@@ -2558,7 +2558,7 @@
                     }
                   },
                   {
-                    "name": "nextclade__copy_of_NODE_0000003_for_placement_of_PP_006VX06.1|L_#6",
+                    "name": "nextclade__copy_of_NODE_0000003_for_placement_of_PP_006VX06.1_#6",
                     "branch_attrs": {
                       "mutations": {
                         "RdRp": [
@@ -2965,7 +2965,7 @@
                     },
                     "children": [
                       {
-                        "name": "PP_006VX06.1|L",
+                        "name": "PP_006VX06.1",
                         "branch_attrs": {
                           "mutations": {
                             "RdRp": [
@@ -3396,7 +3396,7 @@
                             },
                             "children": [
                               {
-                                "name": "nextclade__copy_of_PP058737|15631_L|Argentina|1998|Argentina/1998-XX-XX_for_placement_of_PP_006W1V9.1|L_#59",
+                                "name": "nextclade__copy_of_PP058737|15631_L|Argentina|1998|Argentina/1998-XX-XX_for_placement_of_PP_006W1V9.1_#59",
                                 "branch_attrs": {
                                   "mutations": {
                                     "RdRp": [
@@ -3565,7 +3565,7 @@
                                     }
                                   },
                                   {
-                                    "name": "PP_006W1V9.1|L",
+                                    "name": "PP_006W1V9.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -3605,7 +3605,7 @@
                                 ]
                               },
                               {
-                                "name": "nextclade__copy_of_PP151172|ER19-SP1693|Argentina/2019-XX-XX_for_placement_of_PP_006W27K.1|L_#69",
+                                "name": "nextclade__copy_of_PP151172|ER19-SP1693|Argentina/2019-XX-XX_for_placement_of_PP_006W27K.1_#69",
                                 "branch_attrs": {
                                   "mutations": {
                                     "RdRp": [
@@ -3821,7 +3821,7 @@
                                     }
                                   },
                                   {
-                                    "name": "PP_006W27K.1|L",
+                                    "name": "PP_006W27K.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -4134,7 +4134,7 @@
                             },
                             "children": [
                               {
-                                "name": "nextclade__copy_of_PP003836|BA18-RR1620|Argentina/2018-XX-XX_for_placement_of_PP_006W1RH.1|L_#57",
+                                "name": "nextclade__copy_of_PP003836|BA18-RR1620|Argentina/2018-XX-XX_for_placement_of_PP_006W1RH.1_#57",
                                 "branch_attrs": {
                                   "mutations": {
                                     "RdRp": [
@@ -4268,7 +4268,7 @@
                                     }
                                   },
                                   {
-                                    "name": "PP_006W1RH.1|L",
+                                    "name": "PP_006W1RH.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -4308,7 +4308,7 @@
                                 ]
                               },
                               {
-                                "name": "nextclade__copy_of_PP003837|BA18-LD1633|Argentina/2018-XX-XX_for_placement_of_PP_006W1SF.1|L_#58",
+                                "name": "nextclade__copy_of_PP003837|BA18-LD1633|Argentina/2018-XX-XX_for_placement_of_PP_006W1SF.1_#58",
                                 "branch_attrs": {
                                   "mutations": {
                                     "RdRp": [
@@ -4429,7 +4429,7 @@
                                     }
                                   },
                                   {
-                                    "name": "PP_006W1SF.1|L",
+                                    "name": "PP_006W1SF.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -4680,7 +4680,7 @@
                 },
                 "children": [
                   {
-                    "name": "nextclade__copy_of_OQ092243|VARS/22-01|Brazil/2022-12-09_for_placement_of_PP_006W0VA.1|L_#54",
+                    "name": "nextclade__copy_of_OQ092243|VARS/22-01|Brazil/2022-12-09_for_placement_of_PP_006W0VA.1_#54",
                     "branch_attrs": {
                       "mutations": {
                         "RdRp": [
@@ -5366,7 +5366,7 @@
                         }
                       },
                       {
-                        "name": "PP_006W0VA.1|L",
+                        "name": "PP_006W0VA.1",
                         "branch_attrs": {
                           "mutations": {
                             "nuc": []
@@ -6039,7 +6039,7 @@
                     },
                     "children": [
                       {
-                        "name": "nextclade__copy_of_PP151171|BA16_LJC1557|Argentina/2016-XX-XX_for_placement_of_PP_006W26M.1|L_#68",
+                        "name": "nextclade__copy_of_PP151171|BA16_LJC1557|Argentina/2016-XX-XX_for_placement_of_PP_006W26M.1_#68",
                         "branch_attrs": {
                           "mutations": {
                             "RdRp": [
@@ -6124,7 +6124,7 @@
                             }
                           },
                           {
-                            "name": "PP_006W26M.1|L",
+                            "name": "PP_006W26M.1",
                             "branch_attrs": {
                               "mutations": {
                                 "nuc": []
@@ -6296,7 +6296,7 @@
                                 }
                               },
                               {
-                                "name": "PP_006W0UC.1|L",
+                                "name": "PP_006W0UC.1",
                                 "branch_attrs": {
                                   "mutations": {
                                     "nuc": []
@@ -6334,7 +6334,7 @@
                                 }
                               },
                               {
-                                "name": "PP_006W20Z.1|L",
+                                "name": "PP_006W20Z.1",
                                 "branch_attrs": {
                                   "mutations": {
                                     "nuc": []
@@ -6432,7 +6432,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "nextclade__copy_of_PP151167|BA02_VO483|Argentina/2002-XX-XX_for_placement_of_PP_006W22V.1|L_#64",
+                                    "name": "nextclade__copy_of_PP151167|BA02_VO483|Argentina/2002-XX-XX_for_placement_of_PP_006W22V.1_#64",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -6489,7 +6489,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W22V.1|L",
+                                        "name": "PP_006W22V.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -6562,7 +6562,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W21X.1|L",
+                                        "name": "PP_006W21X.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -6600,7 +6600,7 @@
                                         }
                                       },
                                       {
-                                        "name": "nextclade__copy_of_PP504849|BA02_VVD480|Argentina/2002-XX-XX_for_placement_of_PP_006W2AD.1|L_#70",
+                                        "name": "nextclade__copy_of_PP504849|BA02_VVD480|Argentina/2002-XX-XX_for_placement_of_PP_006W2AD.1_#70",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": [
@@ -6653,7 +6653,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006W2AD.1|L",
+                                            "name": "PP_006W2AD.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -6719,7 +6719,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "PP_006W25P.1|L",
+                                    "name": "PP_006W25P.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -6757,7 +6757,7 @@
                                     }
                                   },
                                   {
-                                    "name": "nextclade__copy_of_PP151168|BA02_RJF487|Argentina/2002-XX-XX_for_placement_of_PP_006W23T.1|L_#65",
+                                    "name": "nextclade__copy_of_PP151168|BA02_RJF487|Argentina/2002-XX-XX_for_placement_of_PP_006W23T.1_#65",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -6812,7 +6812,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W23T.1|L",
+                                        "name": "PP_006W23T.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -6881,7 +6881,7 @@
                                         }
                                       },
                                       {
-                                        "name": "nextclade__copy_of_PP151169|BA02_AOA490|Argentina/2002-XX-XX_for_placement_of_PP_006W24R.1|L_#66",
+                                        "name": "nextclade__copy_of_PP151169|BA02_AOA490|Argentina/2002-XX-XX_for_placement_of_PP_006W24R.1_#66",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": [
@@ -6937,7 +6937,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006W24R.1|L",
+                                            "name": "PP_006W24R.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -7116,7 +7116,7 @@
         },
         "children": [
           {
-            "name": "nextclade__copy_of_PP058738|807266_L|Paraguay|1997|Paraguay/1997-XX-XX_for_placement_of_PP_006W1W7.1|L_#60",
+            "name": "nextclade__copy_of_PP058738|807266_L|Paraguay|1997|Paraguay/1997-XX-XX_for_placement_of_PP_006W1W7.1_#60",
             "branch_attrs": {
               "mutations": {
                 "RdRp": [
@@ -8339,7 +8339,7 @@
                 }
               },
               {
-                "name": "PP_006W1W7.1|L",
+                "name": "PP_006W1W7.1",
                 "branch_attrs": {
                   "mutations": {
                     "nuc": []
@@ -9013,7 +9013,7 @@
             },
             "children": [
               {
-                "name": "nextclade__copy_of_NODE_0000017_for_placement_of_PP_006VQ9V.1|L_#2",
+                "name": "nextclade__copy_of_NODE_0000017_for_placement_of_PP_006VQ9V.1_#2",
                 "branch_attrs": {
                   "mutations": {
                     "RdRp": [
@@ -9151,7 +9151,7 @@
                 },
                 "children": [
                   {
-                    "name": "PP_006VQ9V.1|L",
+                    "name": "PP_006VQ9V.1",
                     "branch_attrs": {
                       "mutations": {
                         "RdRp": [
@@ -9341,7 +9341,7 @@
                     }
                   },
                   {
-                    "name": "nextclade__copy_of_NODE_0000017_for_placement_of_PP_006VT18.1|L_#4",
+                    "name": "nextclade__copy_of_NODE_0000017_for_placement_of_PP_006VT18.1_#4",
                     "branch_attrs": {
                       "mutations": {
                         "nuc": [
@@ -9358,7 +9358,7 @@
                     },
                     "children": [
                       {
-                        "name": "nextclade__copy_of_PP_006VT18.1|L_for_placement_of_PP_006VVCJ.1|L_#5",
+                        "name": "nextclade__copy_of_PP_006VT18.1_for_placement_of_PP_006VVCJ.1_#5",
                         "branch_attrs": {
                           "mutations": {
                             "RdRp": [
@@ -11060,7 +11060,7 @@
                         },
                         "children": [
                           {
-                            "name": "PP_006VT18.1|L",
+                            "name": "PP_006VT18.1",
                             "branch_attrs": {
                               "mutations": {
                                 "nuc": []
@@ -11098,7 +11098,7 @@
                             }
                           },
                           {
-                            "name": "PP_006VVCJ.1|L",
+                            "name": "PP_006VVCJ.1",
                             "branch_attrs": {
                               "mutations": {
                                 "nuc": []
@@ -11154,7 +11154,7 @@
                         },
                         "children": [
                           {
-                            "name": "PP_006VNZG.1|L",
+                            "name": "PP_006VNZG.1",
                             "branch_attrs": {
                               "mutations": {
                                 "nuc": []
@@ -11192,7 +11192,7 @@
                             }
                           },
                           {
-                            "name": "PP_006W0E7.1|L",
+                            "name": "PP_006W0E7.1",
                             "branch_attrs": {
                               "mutations": {
                                 "nuc": []
@@ -11269,7 +11269,7 @@
                             ]
                           },
                           {
-                            "name": "nextclade__copy_of_MT956621|Chile-9717869|Chile/1997-XX-XX_for_placement_of_PP_006W0D9.1|L_#47",
+                            "name": "nextclade__copy_of_MT956621|Chile-9717869|Chile/1997-XX-XX_for_placement_of_PP_006W0D9.1_#47",
                             "branch_attrs": {
                               "mutations": {
                                 "RdRp": [
@@ -11329,7 +11329,7 @@
                                 }
                               },
                               {
-                                "name": "PP_006W0D9.1|L",
+                                "name": "PP_006W0D9.1",
                                 "branch_attrs": {
                                   "mutations": {
                                     "nuc": []
@@ -11485,7 +11485,7 @@
                 },
                 "children": [
                   {
-                    "name": "nextclade__copy_of_MN850096|ARCH14/NRC1|nan/XXXX-XX-XX_for_placement_of_PP_006W0AF.1|L_#44",
+                    "name": "nextclade__copy_of_MN850096|ARCH14/NRC1|nan/XXXX-XX-XX_for_placement_of_PP_006W0AF.1_#44",
                     "branch_attrs": {
                       "mutations": {
                         "RdRp": [
@@ -11687,7 +11687,7 @@
                         }
                       },
                       {
-                        "name": "PP_006W0AF.1|L",
+                        "name": "PP_006W0AF.1",
                         "branch_attrs": {
                           "mutations": {
                             "nuc": []
@@ -11952,7 +11952,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "nextclade__copy_of_MN258157|NRC-2/97_06/01/1996|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ3Y.1|L_#9",
+                                    "name": "nextclade__copy_of_MN258157|NRC-2/97_06/01/1996|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ3Y.1_#9",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -12091,7 +12091,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZ3Y.1|L",
+                                        "name": "PP_006VZ3Y.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -12211,7 +12211,7 @@
                                     },
                                     "children": [
                                       {
-                                        "name": "nextclade__copy_of_AY228239|CHI-7913|Chile/XXXX-XX-XX_for_placement_of_PP_006VQHC.1|L_#3",
+                                        "name": "nextclade__copy_of_AY228239|CHI-7913|Chile/XXXX-XX-XX_for_placement_of_PP_006VQHC.1_#3",
                                         "branch_attrs": {
                                           "mutations": {
                                             "RdRp": [
@@ -12302,7 +12302,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006VQHC.1|L",
+                                            "name": "PP_006VQHC.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -12395,7 +12395,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006W0CB.1|L",
+                                            "name": "PP_006W0CB.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -12433,7 +12433,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006W2HY.1|L",
+                                            "name": "PP_006W2HY.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -12508,7 +12508,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "nextclade__copy_of_nextclade__copy_of_MN258160|NRC-5/18_06/01/2018|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ6S.1|L_#12_for_placement_of_PP_006VP2A.1|L_#1",
+                                    "name": "nextclade__copy_of_nextclade__copy_of_MN258160|NRC-5/18_06/01/2018|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ6S.1_#12_for_placement_of_PP_006VP2A.1_#1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -12626,7 +12626,7 @@
                                     },
                                     "children": [
                                       {
-                                        "name": "PP_006VP2A.1|L",
+                                        "name": "PP_006VP2A.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": [
@@ -12666,7 +12666,7 @@
                                         }
                                       },
                                       {
-                                        "name": "nextclade__copy_of_MN258160|NRC-5/18_06/01/2018|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ6S.1|L_#12",
+                                        "name": "nextclade__copy_of_MN258160|NRC-5/18_06/01/2018|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ6S.1_#12",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": [
@@ -12718,7 +12718,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006VZ6S.1|L",
+                                            "name": "PP_006VZ6S.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -12848,7 +12848,7 @@
                                     },
                                     "children": [
                                       {
-                                        "name": "nextclade__copy_of_KY659431|ANDV LS-CH-2016|Switzerland/2016-12-26_for_placement_of_PP_006VX9N.1|L_#7",
+                                        "name": "nextclade__copy_of_KY659431|ANDV LS-CH-2016|Switzerland/2016-12-26_for_placement_of_PP_006VX9N.1_#7",
                                         "branch_attrs": {
                                           "mutations": {
                                             "RdRp": [
@@ -12926,7 +12926,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006VX9N.1|L",
+                                            "name": "PP_006VX9N.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -12999,7 +12999,7 @@
                                             }
                                           },
                                           {
-                                            "name": "PP_006W0W8.1|L",
+                                            "name": "PP_006W0W8.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -13037,7 +13037,7 @@
                                             }
                                           },
                                           {
-                                            "name": "nextclade__copy_of_OR405523|ANDV-CH-LS-2016|Switzerland/2016-XX-XX_for_placement_of_PP_006W0X6.1|L_#56",
+                                            "name": "nextclade__copy_of_OR405523|ANDV-CH-LS-2016|Switzerland/2016-XX-XX_for_placement_of_PP_006W0X6.1_#56",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "RdRp": [
@@ -13092,7 +13092,7 @@
                                                 }
                                               },
                                               {
-                                                "name": "PP_006W0X6.1|L",
+                                                "name": "PP_006W0X6.1",
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": []
@@ -13210,7 +13210,7 @@
                             },
                             "children": [
                               {
-                                "name": "nextclade__copy_of_NODE_0000030_for_placement_of_PP_006W3U9.1|L_#78",
+                                "name": "nextclade__copy_of_NODE_0000030_for_placement_of_PP_006W3U9.1_#78",
                                 "branch_attrs": {
                                   "mutations": {
                                     "RdRp": [
@@ -13267,7 +13267,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "nextclade__copy_of_PP_006W3U9.1|L_for_placement_of_PP_006W6RC.1|L_#80",
+                                    "name": "nextclade__copy_of_PP_006W3U9.1_for_placement_of_PP_006W6RC.1_#80",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": [
@@ -13350,7 +13350,7 @@
                                     },
                                     "children": [
                                       {
-                                        "name": "PP_006W3U9.1|L",
+                                        "name": "PP_006W3U9.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13388,7 +13388,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W6RC.1|L",
+                                        "name": "PP_006W6RC.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13426,7 +13426,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W5U7.1|L",
+                                        "name": "PP_006W5U7.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "RdRp": [
@@ -13567,7 +13567,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZ4W.1|L",
+                                        "name": "PP_006VZ4W.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13605,7 +13605,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZ5U.1|L",
+                                        "name": "PP_006VZ5U.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13787,7 +13787,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W2F3.1|L",
+                                        "name": "PP_006W2F3.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13825,7 +13825,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W2G1.1|L",
+                                        "name": "PP_006W2G1.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13863,7 +13863,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W2JW.1|L",
+                                        "name": "PP_006W2JW.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -13901,7 +13901,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W2KU.1|L",
+                                        "name": "PP_006W2KU.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -14074,7 +14074,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W0QL.1|L",
+                                        "name": "PP_006W0QL.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -14132,7 +14132,7 @@
                                         },
                                         "children": [
                                           {
-                                            "name": "PP_006W0RJ.1|L",
+                                            "name": "PP_006W0RJ.1",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": []
@@ -14170,7 +14170,7 @@
                                             }
                                           },
                                           {
-                                            "name": "nextclade__copy_of_OP555734|Andes/ARG_p19|Argentina/XXXX-XX-XX_for_placement_of_PP_006W0SG.1|L_#51",
+                                            "name": "nextclade__copy_of_OP555734|Andes/ARG_p19|Argentina/XXXX-XX-XX_for_placement_of_PP_006W0SG.1_#51",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "RdRp": [
@@ -14225,7 +14225,7 @@
                                                 }
                                               },
                                               {
-                                                "name": "PP_006W0SG.1|L",
+                                                "name": "PP_006W0SG.1",
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": []
@@ -14294,7 +14294,7 @@
                                                 }
                                               },
                                               {
-                                                "name": "nextclade__copy_of_OP555735|Andes/ARG-M.a.|Argentina/XXXX-XX-XX_for_placement_of_PP_006W0TE.1|L_#52",
+                                                "name": "nextclade__copy_of_OP555735|Andes/ARG-M.a.|Argentina/XXXX-XX-XX_for_placement_of_PP_006W0TE.1_#52",
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": [
@@ -14346,7 +14346,7 @@
                                                     }
                                                   },
                                                   {
-                                                    "name": "PP_006W0TE.1|L",
+                                                    "name": "PP_006W0TE.1",
                                                     "branch_attrs": {
                                                       "mutations": {
                                                         "nuc": []
@@ -14611,7 +14611,7 @@
                                 }
                               },
                               {
-                                "name": "PP_006W07M.1|L",
+                                "name": "PP_006W07M.1",
                                 "branch_attrs": {
                                   "mutations": {
                                     "nuc": []
@@ -14691,7 +14691,7 @@
                                     }
                                   },
                                   {
-                                    "name": "PP_006W08K.1|L",
+                                    "name": "PP_006W08K.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -14729,7 +14729,7 @@
                                     }
                                   },
                                   {
-                                    "name": "PP_006W09H.1|L",
+                                    "name": "PP_006W09H.1",
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": []
@@ -14804,7 +14804,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "nextclade__copy_of_MN258156|Epilink/96_2/6/19|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ20.1|L_#8",
+                                    "name": "nextclade__copy_of_MN258156|Epilink/96_2/6/19|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ20.1_#8",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -14873,7 +14873,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZ20.1|L",
+                                        "name": "PP_006VZ20.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -14913,7 +14913,7 @@
                                     ]
                                   },
                                   {
-                                    "name": "nextclade__copy_of_MN850097|ARLA17/NRC2|nan/XXXX-XX-XX_for_placement_of_PP_006W0BD.1|L_#45",
+                                    "name": "nextclade__copy_of_MN850097|ARLA17/NRC2|nan/XXXX-XX-XX_for_placement_of_PP_006W0BD.1_#45",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -14995,7 +14995,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W0BD.1|L",
+                                        "name": "PP_006W0BD.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15071,7 +15071,7 @@
                                 },
                                 "children": [
                                   {
-                                    "name": "nextclade__copy_of_MN258161|NRC-6/18_05/21/18|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ7Q.1|L_#13",
+                                    "name": "nextclade__copy_of_MN258161|NRC-6/18_05/21/18|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZ7Q.1_#13",
                                     "branch_attrs": {
                                       "mutations": {
                                         "RdRp": [
@@ -15148,7 +15148,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZ7Q.1|L",
+                                        "name": "PP_006VZ7Q.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15219,7 +15219,7 @@
                                     },
                                     "children": [
                                       {
-                                        "name": "PP_006VZ8N.1|L",
+                                        "name": "PP_006VZ8N.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15257,7 +15257,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZ9L.1|L",
+                                        "name": "PP_006VZ9L.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15295,7 +15295,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZAJ.1|L",
+                                        "name": "PP_006VZAJ.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15333,7 +15333,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZBG.1|L",
+                                        "name": "PP_006VZBG.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15371,7 +15371,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZCE.1|L",
+                                        "name": "PP_006VZCE.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15409,7 +15409,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZDC.1|L",
+                                        "name": "PP_006VZDC.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15447,7 +15447,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZEA.1|L",
+                                        "name": "PP_006VZEA.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15485,7 +15485,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZF8.1|L",
+                                        "name": "PP_006VZF8.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15523,7 +15523,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZG6.1|L",
+                                        "name": "PP_006VZG6.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15561,7 +15561,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZH3.1|L",
+                                        "name": "PP_006VZH3.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15599,7 +15599,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZJ1.1|L",
+                                        "name": "PP_006VZJ1.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15637,7 +15637,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZKZ.1|L",
+                                        "name": "PP_006VZKZ.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15675,7 +15675,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZMV.1|L",
+                                        "name": "PP_006VZMV.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15713,7 +15713,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZNT.1|L",
+                                        "name": "PP_006VZNT.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15751,7 +15751,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZPR.1|L",
+                                        "name": "PP_006VZPR.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15789,7 +15789,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZQP.1|L",
+                                        "name": "PP_006VZQP.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15827,7 +15827,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZRM.1|L",
+                                        "name": "PP_006VZRM.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15865,7 +15865,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZSK.1|L",
+                                        "name": "PP_006VZSK.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15903,7 +15903,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZTH.1|L",
+                                        "name": "PP_006VZTH.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15941,7 +15941,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZUF.1|L",
+                                        "name": "PP_006VZUF.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -15979,7 +15979,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZWB.1|L",
+                                        "name": "PP_006VZWB.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -16017,7 +16017,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZY7.1|L",
+                                        "name": "PP_006VZY7.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -16055,7 +16055,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006VZZ5.1|L",
+                                        "name": "PP_006VZZ5.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -16093,7 +16093,7 @@
                                         }
                                       },
                                       {
-                                        "name": "PP_006W001.1|L",
+                                        "name": "PP_006W001.1",
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": []
@@ -16140,7 +16140,7 @@
                                         },
                                         "children": [
                                           {
-                                            "name": "nextclade__copy_of_MN258183|Epuyen/18-19_Patient_4_11/27/18|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZVD.1|L_#35",
+                                            "name": "nextclade__copy_of_MN258183|Epuyen/18-19_Patient_4_11/27/18|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZVD.1_#35",
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": [
@@ -16192,7 +16192,7 @@
                                                 }
                                               },
                                               {
-                                                "name": "PP_006VZVD.1|L",
+                                                "name": "PP_006VZVD.1",
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": []
@@ -16241,7 +16241,7 @@
                                             },
                                             "children": [
                                               {
-                                                "name": "nextclade__copy_of_MN258174|Epuyen/18-19_Patient_22_1/1/19|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZLX.1|L_#26",
+                                                "name": "nextclade__copy_of_MN258174|Epuyen/18-19_Patient_22_1/1/19|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZLX.1_#26",
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": [
@@ -16293,7 +16293,7 @@
                                                     }
                                                   },
                                                   {
-                                                    "name": "PP_006VZLX.1|L",
+                                                    "name": "PP_006VZLX.1",
                                                     "branch_attrs": {
                                                       "mutations": {
                                                         "nuc": []
@@ -16400,7 +16400,7 @@
                                                         },
                                                         "children": [
                                                           {
-                                                            "name": "nextclade__copy_of_MN258185|Epuyen/18-19_Patient_6_11/25/18|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZX9.1|L_#37",
+                                                            "name": "nextclade__copy_of_MN258185|Epuyen/18-19_Patient_6_11/25/18|Argentina/XXXX-XX-XX_for_placement_of_PP_006VZX9.1_#37",
                                                             "branch_attrs": {
                                                               "mutations": {
                                                                 "nuc": [
@@ -16452,7 +16452,7 @@
                                                                 }
                                                               },
                                                               {
-                                                                "name": "PP_006VZX9.1|L",
+                                                                "name": "PP_006VZX9.1",
                                                                 "branch_attrs": {
                                                                   "mutations": {
                                                                     "nuc": []
@@ -16550,7 +16550,7 @@
                                                                     }
                                                                   },
                                                                   {
-                                                                    "name": "nextclade__copy_of_PQ215670|Epuyen|Argentina/2022-XX-XX_for_placement_of_PP_006W2C9.1|L_#71",
+                                                                    "name": "nextclade__copy_of_PQ215670|Epuyen|Argentina/2022-XX-XX_for_placement_of_PP_006W2C9.1_#71",
                                                                     "branch_attrs": {
                                                                       "mutations": {
                                                                         "RdRp": [
@@ -16605,7 +16605,7 @@
                                                                         }
                                                                       },
                                                                       {
-                                                                        "name": "PP_006W2C9.1|L",
+                                                                        "name": "PP_006W2C9.1",
                                                                         "branch_attrs": {
                                                                           "mutations": {
                                                                             "nuc": []
